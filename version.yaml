@@ -1,0 +1,8 @@
+model:
+  name: vision-navigator
+  version: "1.0.43"
+
+image:
+  repository: vision-navigator
+  tag: "1.0.43"
+  

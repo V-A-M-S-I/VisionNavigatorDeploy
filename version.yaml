@@ -1,3 +1,4 @@
-version: 1.0.46
-image: python:3.10.19
+version: 1.0.47
+image: python:3.10.20
+tag: 3.10.20
 environment: RND
